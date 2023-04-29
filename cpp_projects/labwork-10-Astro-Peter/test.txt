@@ -1,0 +1,94 @@
+MAP
+Custom allocator
+elements        65536   time    9
+elements        131072  time    23
+elements        196608  time    37
+elements        262144  time    52
+elements        327680  time    68
+elements        393216  time    84
+elements        458752  time    101
+elements        524288  time    118
+elements        589824  time    135
+elements        655360  time    150
+elements        720896  time    167
+elements        786432  time    182
+elements        851968  time    199
+elements        917504  time    214
+elements        983040  time    229
+elements        1048576 time    246
+
+Allocate deallocate
+Custom allocator
+iter    65536   time    0
+iter    131072  time    1
+iter    196608  time    2
+iter    262144  time    4
+iter    327680  time    5
+iter    393216  time    5
+iter    458752  time    6
+iter    524288  time    6
+iter    589824  time    7
+iter    655360  time    7
+iter    720896  time    8
+iter    786432  time    8
+iter    851968  time    9
+iter    917504  time    9
+iter    983040  time    10
+iter    1048576 time    10
+
+MULTIMAP
+Custom allocator
+elements        65536   time    8
+elements        131072  time    20
+elements        196608  time    32
+elements        262144  time    47
+elements        327680  time    61
+elements        393216  time    77
+elements        458752  time    91
+elements        524288  time    105
+elements        589824  time    122
+elements        655360  time    138
+elements        720896  time    155
+elements        786432  time    172
+elements        851968  time    188
+elements        917504  time    205
+elements        983040  time    221
+elements        1048576 time    238
+
+LIST
+Custom allocator
+elements        65536   time    0
+elements        131072  time    2
+elements        196608  time    3
+elements        262144  time    4
+elements        327680  time    4
+elements        393216  time    5
+elements        458752  time    5
+elements        524288  time    5
+elements        589824  time    6
+elements        655360  time    6
+elements        720896  time    7
+elements        786432  time    7
+elements        851968  time    8
+elements        917504  time    8
+elements        983040  time    9
+elements        1048576 time    9
+
+VECTOR
+Custom allocator
+elements        65536   time    0
+elements        131072  time    0
+elements        196608  time    0
+elements        262144  time    1
+elements        327680  time    1
+elements        393216  time    1
+elements        458752  time    1
+elements        524288  time    2
+elements        589824  time    2
+elements        655360  time    3
+elements        720896  time    4
+elements        786432  time    5
+elements        851968  time    5
+elements        917504  time    6
+elements        983040  time    6
+elements        1048576 time    6

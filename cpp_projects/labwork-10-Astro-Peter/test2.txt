@@ -1,0 +1,94 @@
+MAP
+std::allocator
+elements        65536   time    9
+elements        131072  time    22
+elements        196608  time    36
+elements        262144  time    49
+elements        327680  time    62
+elements        393216  time    78
+elements        458752  time    90
+elements        524288  time    103
+elements        589824  time    119
+elements        655360  time    133
+elements        720896  time    146
+elements        786432  time    160
+elements        851968  time    173
+elements        917504  time    186
+elements        983040  time    199
+elements        1048576 time    212
+
+Allocate deallocate
+std::allocator
+iter    65536   time    2
+iter    131072  time    6
+iter    196608  time    10
+iter    262144  time    14
+iter    327680  time    18
+iter    393216  time    21
+iter    458752  time    25
+iter    524288  time    28
+iter    589824  time    32
+iter    655360  time    35
+iter    720896  time    38
+iter    786432  time    41
+iter    851968  time    44
+iter    917504  time    46
+iter    983040  time    49
+iter    1048576 time    52
+
+MULTIMAP
+std::allocator
+elements        65536   time    9
+elements        131072  time    20
+elements        196608  time    32
+elements        262144  time    44
+elements        327680  time    55
+elements        393216  time    68
+elements        458752  time    81
+elements        524288  time    95
+elements        589824  time    110
+elements        655360  time    125
+elements        720896  time    139
+elements        786432  time    154
+elements        851968  time    169
+elements        917504  time    184
+elements        983040  time    198
+elements        1048576 time    213
+
+LIST
+std::allocator
+elements        65536   time    2
+elements        131072  time    5
+elements        196608  time    9
+elements        262144  time    12
+elements        327680  time    15
+elements        393216  time    18
+elements        458752  time    21
+elements        524288  time    24
+elements        589824  time    27
+elements        655360  time    30
+elements        720896  time    33
+elements        786432  time    36
+elements        851968  time    39
+elements        917504  time    42
+elements        983040  time    46
+elements        1048576 time    49
+
+VECTOR
+std::allocator
+elements        65536   time    0
+elements        131072  time    1
+elements        196608  time    3
+elements        262144  time    3
+elements        327680  time    4
+elements        393216  time    4
+elements        458752  time    4
+elements        524288  time    5
+elements        589824  time    6
+elements        655360  time    7
+elements        720896  time    8
+elements        786432  time    8
+elements        851968  time    8
+elements        917504  time    9
+elements        983040  time    9
+elements        1048576 time    10
